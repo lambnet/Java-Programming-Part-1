@@ -8,5 +8,6 @@ public class IntegerInput {
         System.out.println("Give a number: ");
         int num = Integer.parseInt(scanner.nextLine());
         System.out.println("You gave the number " + num);
+
     }
 }

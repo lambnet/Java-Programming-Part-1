@@ -9,7 +9,7 @@ public class AverageOfTwoNumbers {
         int first = Integer.parseInt(scanner.nextLine());
         System.out.println("Give the second number:");
         int second = Integer.parseInt(scanner.nextLine());
-        double res = (first + second)/2;
+        double res = (first + second)/2.0;
         System.out.println("The average is " + res);
     }
 }
