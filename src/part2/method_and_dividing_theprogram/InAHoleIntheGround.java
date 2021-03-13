@@ -1,4 +1,4 @@
-package part2.methodanddividingtheprogram;
+package part2.method_and_dividing_theprogram;
 
 public class InAHoleIntheGround {
     public static void main(String[] args) {
