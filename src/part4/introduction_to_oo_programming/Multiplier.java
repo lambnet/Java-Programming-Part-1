@@ -1,0 +1,13 @@
+package part4.introduction_to_oo_programming;
+
+public class Multiplier {
+    private int number;
+
+    public Multiplier(int number){
+        this.number = number;
+    }
+
+    public int multiply(int number){
+        return this.number * number;
+    }
+}
